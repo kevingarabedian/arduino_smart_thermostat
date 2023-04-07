@@ -66,8 +66,6 @@ To build the smart thermostat, follow these steps:
 
 7. Connect the smart thermostat to your Wi-Fi network.
 
-8. Install the mobile app on your smartphone and control the thermostat using the app.
-
 ## Good Starting Point
 
 This project is a great starting point for anyone interested in building smart home devices using Arduino. It can be used as a reference to build other similar projects and can be expanded to include additional features such as voice control, humidity monitoring, and more.
